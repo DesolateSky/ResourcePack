@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "instrument=harp,note=1,powered=false": { "model": "desolatesky:block/dust_block" }
+  }
+}
